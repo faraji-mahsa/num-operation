@@ -20,7 +20,7 @@ public class NumOpsTest extends TestCase
 
      public void testNumOps()
     {
-         NumOpsTest nops = new NumOpsTest();
+         NumOps nops = new NumOps();
          assertTrue(nops.size() == 1);
          assertTrue(nops.getOp(0).getDesc().equals("plus"));
         assertTrue(nops.getOp(0).op(2,1) == 3);
