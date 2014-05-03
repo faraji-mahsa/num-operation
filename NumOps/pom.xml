@@ -4,7 +4,6 @@
   http://maven.apache.org/maven-v4_0_0.xsd">
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>ir.hamcodi.articles</groupId>
