@@ -15,6 +15,7 @@
   <build>
     <plugins>
       <plugin>
+       <version>2.4</version>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
           <source>1.7</source>
